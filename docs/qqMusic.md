@@ -4,7 +4,7 @@
   在使用QQ音乐服务前，您需要准备一个有效的QQ音乐账号。
 首次使用请在设备端的“音乐服务”- “流媒体”菜单中打开QQ音乐，系统会自动弹出二维码登录界面，请根据提示完成登录。
 
-<img src="/images/img_1.png" />
+<img src="/images/qqMusic_1.png" />
 
   ## 2.登录
 
@@ -12,7 +12,7 @@
 如果您尚未注册 QQ 音乐账号，可前往 QQ 音乐官网：https://y.qq.com/ 完成注册。
 
 
-<img src="/images/img_2.png" />
+<img src="/images/qqMusic_2.png" />
 
 ## 3.浏览
 
@@ -21,16 +21,16 @@
 您可以逐层浏览这些分类，访问 QQ 音乐的各类推荐内容；同时，也可以在“我的”分栏中查看与设备同步的个人数据，包括在 QQ 音乐其他平台关注的歌手、已购内容、收藏单曲、最近播放记录、各类收藏及自建歌单等。
 
 <div class="two-images">
-  <img src="/images/img_3_1.png" alt="" />
-  <img src="/images/img_3_2.png" alt="" />
+  <img src="/images/qqMusic_3.png" alt="" />
+  <img src="/images/qqMusic_4.png" alt="" />
 </div>
 
 ## 4.搜索
 
 点击顶部的搜索框，即可在整个网易云音乐曲库中进行检索，查找您想要的 单曲、歌单、专辑、歌手、节目、歌词 等各类内容，快速定位心仪的音乐资源。
 <div class="two-images">
-  <img src="/images/img_4_1.png" alt="" />
-  <img src="/images/img_4_2.png" alt="" />
+  <img src="/images/qqMusic_4.png" alt="" />
+  <img src="/images/qqMusic_5.png" alt="" />
 </div>
 
 <div class="center-text">【设备与Eversolo Control 双端展示】</div>
@@ -54,8 +54,8 @@
 + 收藏的内容可在 “我的” 分栏中随时查看与管理。
 + 添加到设备播放列表的内容，可在我的音乐-设备播放列表中统一查看和管理。
 <div class="two-images">
-  <img src="/images/img_5_1.png" alt="" />
-  <img src="/images/img_5_2.png" alt="" />
+  <img src="/images/qqMusic_5.png" alt="" />
+  <img src="/images/qqMusic_6.png" alt="" />
 </div>
 
 <div class="center-text">【设备与Eversolo Control 双端展示】</div>
@@ -72,8 +72,8 @@
 + 标准品质
 
 <div class="two-images">
-  <img src="/images/img_6_1.png" alt="" />
-  <img src="/images/img_6_2.png" alt="" />
+  <img src="/images/qqMusic_6.png" alt="" />
+  <img src="/images/qqMusic_7.png" alt="" />
 </div>
 
 <div class="center-text">【设备与Eversolo Control 双端展示】</div>
