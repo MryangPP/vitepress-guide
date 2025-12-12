@@ -76,7 +76,7 @@
 
 ## 6.音质
 
-在播放KKBOX音乐时，进入播放详情界面，点击“”音质图标即可选择音质模式。支持的选项包括：
+在播放KKBOX音乐时，进入播放详情界面，点击“<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />”音质图标即可选择音质模式。支持的选项包括：
 + 320k
 + 16bit CD 音质
 + 24bit Hi-Res 音质

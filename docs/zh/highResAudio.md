@@ -18,7 +18,7 @@
   ## 2.登录
 请在设备端或 Eversolo Control APP输入您的 HIGHRESAUDIO 账号与密码完成登录。
 
-如您尚未创建 HIGHRESAUDIO 帐号，请在HIGHRESAUDIO官网：https://www.highresaudio.com/en/user/login，或HIGHRESAUDIO 官方APP上进行账号注册。
+如您尚未创建 HIGHRESAUDIO 帐号，请在HIGHRESAUDIO官网：https://www.highresaudio.com/en/user/login ，或HIGHRESAUDIO 官方APP上进行账号注册。
 
 
 
