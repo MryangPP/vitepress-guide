@@ -81,8 +81,6 @@
 + 96kHz母带
 + Hi-Res
 + 无损（FLAC）
-+ 杜比
-+ 蝰蛇全景声
 
 
 <div class="two-images">
