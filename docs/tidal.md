@@ -70,9 +70,10 @@ This menu supports the following functions:
 | Play now / Play next | Play all tracks now |
 | Add to the end of play queue | Add all tracks to the next play |
 | Add to device playlist | Add all tracks to the end of the play queue |
-| Save to TIDAL | Favorite to TIDAL |
-| Collect | Add to TIDAL playlist |
-| View artist | / |
+| Favorite to TIDAL| Add to device playlist |
+| Add to TIDAL playlist | Favorite to TIDAL |
+| View artist | Add all tracks to TIDAL playlist|
+| View album | / |
 
 
 **Tips:**
@@ -101,7 +102,7 @@ Supported options include:
 + Medium (128 kb/s)
 + High (320 kb/s)
 + Lossless (CD-Quality)
-+ HiRes (MAX/Master)
++ HiRes (Master)
 
 
 

@@ -85,7 +85,7 @@
 
 
 ## 6.音质
-在使用 Qobuz 音乐服务时，您可以在首页点击右上角“<img class="imgIcon" src="/icons/tidal_1.png" alt="" />”图标，或在播放详情界面点击“<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />”图标来选择音质模式。
+在使用 Qobuz 音乐服务时，您可以在首页点击右上角“<img class="imgIcon" src="/icons/qobuz_1.png" alt="" />”图标，或在播放详情界面点击“<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />”图标来选择音质模式。
 
 
 
@@ -94,7 +94,7 @@
 + Medium（128 kb/s）
 + Hight（320 kb/s）
 + Lossless（CD-Quality）
-+ HiRes（MAX/Master）
++ HiRes（Master）
 
 
 

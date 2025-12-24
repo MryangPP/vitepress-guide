@@ -95,7 +95,7 @@ This menu supports the following functions:
 
 
 ## 6. Streaming Quality
-When using the TIDAL music service, you can select the Streaming Quality mode by clicking the "<img class="imgIcon" src="/icons/tidal_1.png" alt="" />" icon in the upper right corner of the homepage or by clicking the "<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />" icon on the playback details screen.
+When using the TIDAL music service, you can select the Streaming Quality mode by clicking the "<img class="imgIcon" src="/icons/qobuz_1.png" alt="" />" icon in the upper right corner of the homepage or by clicking the "<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />" icon on the playback details screen.
 
 
 

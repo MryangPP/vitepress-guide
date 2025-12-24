@@ -72,6 +72,7 @@ export default defineConfig({
                 { text: 'KKBOX', link: '/kkbox' },
                 { text: 'TIDAL', link: '/tidal' },
                 { text: 'Qobuz', link: '/qobuz' },
+                { text: 'Apple Music', link: '/appleMusic' },
                 { text: 'HIGHRESAUDIO', link: '/highResAudio' },
                 { text: 'Amazon Music', link: '/amazonMusic' },
                 { text: 'Deezer', link: '/deezer' },
