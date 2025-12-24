@@ -11,7 +11,7 @@ For first-time users, please open Apple Music in the "Streaming" - "Music" menu 
 
 
 
-<img src="/images/appleMusic_01.png" />
+<img src="/imagesEN/appleMusic_01.png" />
 
   ## 2. Log In
 
@@ -26,7 +26,7 @@ If you haven't created an Apple ID yet, please go to the official Apple Music ap
 
 
 
-<img src="/images/appleMusic_02.png" />
+<img src="/imagesEN/appleMusic_02.png" />
 
 ## 3. Browsing
 
@@ -40,8 +40,8 @@ You can browse these categories layer by layer, access various recommended conte
 
 
 <div class="two-images">
-  <img src="/images/appleMusic_03.png" alt="" />
-  <img src="/images/appleMusic_04.png" alt="" />
+  <img src="/imagesEN/appleMusic_03.png" alt="" />
+  <img src="/imagesEN/appleMusic_04.png" alt="" />
 </div>
 
 ## 4. Search
@@ -54,8 +54,8 @@ Click the search box at the top to search the entire Apple Music library for Art
 
 
 <div class="two-images">
-  <img src="/images/appleMusic_05.png" alt="" />
-  <img src="/images/appleMusic_06.png" alt="" />
+  <img src="/imagesEN/appleMusic_05.png" alt="" />
+  <img src="/imagesEN/appleMusic_06.png" alt="" />
 </div>
 
 <div class="center-text">[Dual-end demonstration of the device and Eversolo Control]</div>
@@ -86,8 +86,8 @@ This menu supports the following functions:
 
 
 <div class="two-images">
-  <img src="/images/appleMusic_07.png" alt="" />
-  <img src="/images/appleMusic_08.png" alt="" />
+  <img src="/imagesEN/appleMusic_07.png" alt="" />
+  <img src="/imagesEN/appleMusic_08.png" alt="" />
 </div>
 
 <div class="center-text">[Dual-end demonstration of the device and Eversolo Control]</div>
@@ -99,8 +99,8 @@ This menu supports the following functions:
 Due to adjustments in the service provider's user policies or interface permissions, the integrated Apple Music service only supports 44.1kHz audio quality.
 
 <div class="two-images">
-  <img src="/images/appleMusic_09.png" alt="" />
-  <img src="/images/appleMusic_10.png" alt="" />
+  <img src="/imagesEN/appleMusic_09.png" alt="" />
+  <img src="/imagesEN/appleMusic_10.png" alt="" />
 </div>
 
 <div class="center-text">[Dual-end demonstration of the device and Eversolo Control]</div>
