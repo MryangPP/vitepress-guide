@@ -69,9 +69,15 @@ export default defineConfig({
             {
               text: 'Examples',
               items: [
-                { text: 'Markdown Examples', link: '/markdown-examples' },
-                { text: 'Runtime API Examples', link: '/api-examples' },
-                { text: 'QQ Music', link: '/test' }
+                { text: 'KKBOX', link: '/kkbox' },
+                { text: 'TIDAL', link: '/tidal' },
+                { text: 'Qobuz', link: '/qobuz' },
+                { text: 'HIGHRESAUDIO', link: '/highResAudio' },
+                { text: 'Amazon Music', link: '/amazonMusic' },
+                { text: 'Deezer', link: '/deezer' },
+                { text: 'IDAGIO', link: '/idagio' },
+                { text: 'Presto Music', link: '/prestoMusic' },
+                { text: 'SoundCloud', link: '/soundCloud' },
               ]
             }
           ]
