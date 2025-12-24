@@ -1,6 +1,7 @@
 
 
-  ## 1.Preparation
+  ## 1. Preparation
+
 
 Before using the HIGHRESAUDIO music service, you need to prepare a valid HIGHRESAUDIO account.
  
@@ -17,7 +18,7 @@ For first-time login, open HIGHRESAUDIO on your device under "Streaming" - "Musi
   <img src="/imagesEN/highResAudio_02.png" alt="" />
 </div>
 
-  ## 2.Log In
+  ## 2. Log In
 
 Please enter your HIGHRESAUDIO account and password on your device or in the Eversolo Control app to log in.
  
@@ -35,7 +36,7 @@ If you haven't created a HIGHRESAUDIO account yet, please register an account on
   <img src="/imagesEN/highResAudio_04.png" alt="" />
 </div>
 
-## 3.Browsing
+## 3. Browsing
 
 
 After successfully logging in, you can browse HIGHRESAUDIO music on your device or in the Eversolo Control app. At the top of the interface, you will see options such as Dashboard, Charts, Genres, Labels, Playlists, Virtual Vault, and My Music.
@@ -51,7 +52,7 @@ You can browse these categories layer by layer to access various recommended con
   <img src="/imagesEN/highResAudio_06.png" alt="" />
 </div>
 
-## 4.Search
+## 4. Search
 
 Click the search box at the top to search the entire HIGHRESAUDIO music library, finding albums, playlists, and other content to quickly locate your desired music resources.
 
@@ -68,7 +69,7 @@ Click the search box at the top to search the entire HIGHRESAUDIO music library,
 <div class="center-text">[Dual-end demonstration of the device and Eversolo Control]
 </div>
 
-## 5.More
+## 5. More
 In the browsing interface, you can access the more options menu by clicking the "<img class="imgIcon" src="/icons/qqMusic_1.png" alt="" />" icon to the right of a track or the "<img class="imgIcon" src="/icons/qqMusic_2.png" alt="" />" icon in the upper right corner of an album/playlist.
 
 
@@ -103,7 +104,7 @@ This menu supports the following functions:
 </div>
 
 
-## 6.Streaming Quality
+## 6. Streaming Quality
 
 When using the HIGHRESAUDIO music service, you can select the Streaming Quality mode by clicking the "<img class="imgIcon" src="/icons/highResAudio_1.png" alt="" />" icon in the upper right corner of the homepage or by clicking the "<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />" icon on the playback details screen.
 

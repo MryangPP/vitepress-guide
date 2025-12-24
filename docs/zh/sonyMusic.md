@@ -26,6 +26,7 @@
   <img src="/images/sonyMusic_03.png" alt="" />
   <img src="/images/sonyMusic_04.png" alt="" />
 </div>
+
 ## 3.浏览
 
 登录成功后，您可以在设备端或 Eversolo Control APP 浏览索尼精选音乐。在界面顶部，您将看到 首页、分类、歌单、排行、我的 等分栏选项。

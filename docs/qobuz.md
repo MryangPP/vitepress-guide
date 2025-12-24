@@ -1,6 +1,7 @@
 
 
-  ## 1.Preparation
+  ## 1. Preparation
+
 
 Before using the Qobuz music service, you need a valid Qobuz account.
  
@@ -15,7 +16,7 @@ For first-time login, open Qobuz on your device under "Streaming" - "Music", or 
   <img src="/imagesEN/qobuz_02.png" alt="" />
 </div>
 
-  ## 2.Log In
+  ## 2. Log In
 
 Enter your Qobuz account and password on your device or in the Eversolo Control app to log in.
  
@@ -30,7 +31,7 @@ If you haven't created a Qobuz account yet, click "Sign in" and follow the promp
   <img src="/imagesEN/qobuz_04.png" alt="" />
 </div>
 
-## 3.Browsing
+## 3. Browsing
 
 After successfully logging in, you can browse Qobuz music on your device or in the Eversolo Control app. At the top of the interface, you will see sections for Discover, My Weekly Q, My playlists, Genres, and Favorites.
  
@@ -43,7 +44,7 @@ You can browse these categories layer by layer to access various recommended con
   <img src="/imagesEN/qobuz_06.png" alt="" />
 </div>
 
-## 4.Search
+## 4. Search
 
 Click the search box at the top to search the entire Qobuz music library, finding Artists,Albums, Tracks, Playlists, and more to quickly locate your favorite music resources.
 
@@ -58,7 +59,7 @@ Click the search box at the top to search the entire Qobuz music library, findin
 <div class="center-text">[Dual-end demonstration of the device and Eversolo Control]
 </div>
 
-## 5.More
+## 5. More
 
 
 In the browsing interface, you can access the more functions menu by clicking the "<img class="imgIcon" src="/icons/qqMusic_1.png" alt="" />" icon to the right of a track or the "<img class="imgIcon" src="/icons/qqMusic_2.png" alt="" />" icon in the upper right corner of an album/playlist.
@@ -93,7 +94,7 @@ This menu supports the following functions:
 </div>
 
 
-## 6.Streaming Quality
+## 6. Streaming Quality
 When using the TIDAL music service, you can select the Streaming Quality mode by clicking the "<img class="imgIcon" src="/icons/tidal_1.png" alt="" />" icon in the upper right corner of the homepage or by clicking the "<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />" icon on the playback details screen.
 
 

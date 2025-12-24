@@ -82,7 +82,7 @@ This menu supports the following functions：
 <div class="center-text">[Dual-end demonstration of the device and Eversolo Control]</div>
 
 
-## 6.Streaming Quality
+## 6. Streaming Quality
 
 When playing KKBOX music, enter the playback details interface and click the "<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />" icon at the left top to select the stream quality mode. Supported options include:
 

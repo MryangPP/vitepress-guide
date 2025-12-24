@@ -1,6 +1,7 @@
 
 
-  ## 1.Preparation
+  ## 1. Preparation
+
 
 Before using the SoundCloud music service, you need to prepare a valid SoundCloud account.
  
@@ -18,7 +19,7 @@ Reminder: The music content on SoundCloud is user-generated, and its core listen
 
 <img src="/imagesEN/soundcloud_01.png" alt="" />
 
-  ## 2.Log In
+  ## 2. Log In
 
 Please enter your SoundCloud account and password on your device to log in.
  
@@ -28,7 +29,7 @@ If you haven't created a SoundCloud account yet, please register on the SoundClo
 
 <img src="/imagesEN/soundcloud_02.png" alt="" />
 
-## 3.Browsing
+## 3. Browsing
 
 After successfully logging in, you can browse SoundCloud on your device or the Eversolo Control APP. At the homepage, you will see sections for Liked tracks, Liked playlist, My tracks, My playlist, Followers, Following.
  
@@ -46,7 +47,7 @@ You can browse these categories layer by layer to access various SoundCloud musi
   <img src="/imagesEN/soundcloud_04.png" alt="" />
 </div>
 
-## 4.Search
+## 4. Search
 
 Click the search box at the top to search the entire SoundCloud music library for Tracks, Playlists, People and other content you want, quickly locating your desired music resources.
 
@@ -60,7 +61,7 @@ Click the search box at the top to search the entire SoundCloud music library fo
 <div class="center-text">[Dual-end demonstration of the device and Eversolo Control]
 </div>
 
-## 5.More
+## 5. More
 
 
 In the browsing interface, you can access the more functions menu by clicking the "<img class="imgIcon" src="/icons/qqMusic_1.png" alt="" />" icon to the right of the track, or the "<img class="imgIcon" src="/icons/qqMusic_2.png" alt="" />" icon in the upper right corner of the album/playlist.
@@ -99,7 +100,7 @@ This menu supports the following functions:
 </div>
 
 
-## 6.Streaming Quality
+## 6. Streaming Quality
 
 When playing SoundCloud music, the device outputs directly according to the specifications of the current audio source, and the streaming quality entirely depends on the original files on this platform.
  

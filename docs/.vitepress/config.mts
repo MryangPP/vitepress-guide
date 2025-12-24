@@ -143,7 +143,7 @@ export default defineConfig({
               // text: '示例',
               items: [
                 { text: 'QQ音乐', link: '/zh/qqMusic' },
-                { text: 'KUGOUHIFI', link: '/zh/kugou' },
+                { text: 'KUGOU HIFI', link: '/zh/kugou' },
                 { text: '网易云音乐', link: '/zh/neteasecloud' },
                 { text: '索尼精选 Hi-Res 音乐', link: '/zh/sonyMusic' },
                 { text: 'KKBOX', link: '/zh/kkbox' },
