@@ -4,7 +4,7 @@
 
 在使用Qobuz音乐服务前，您需要准备一个有效的Qobuz账号。
 
-首次在设备端或 Eversolo Control APP的“音乐服务”- “流媒体”菜单中打开 Qobuz，并按照提示完成账号登录。
+首次在设备端或 Eversolo Control APP的“音乐服务” - “流媒体”菜单中打开 Qobuz，并按照提示完成账号登录。
 
 
 
@@ -17,6 +17,7 @@
   ## 2.登录
 
 请在设备端或 Eversolo Control APP输入您的 Qobuz 账号与密码完成登录。
+
 如您尚未创建 Qobuz 帐号，请点击“Register here”按提示完成账号注册。
 
 
@@ -31,7 +32,7 @@
 
 登录成功后，您可以在设备端或 Eversolo Control APP 浏览Qobuz音乐。在界面顶部，您将看到 Discover、My Weekly Q、My playlists、Genres、Favourites等分栏选项。
 
-您可以逐层浏览这些分类，访问索尼精选音乐的各类推荐内容，同时也能在Favourites分栏选项中查看收藏的自建播放列表、最近发行以及艺术家。
+您可以逐层浏览这些分类，访问 Qobuz 的各类推荐内容，同时也能在Favourites分栏选项中查看收藏的自建播放列表、最近发行以及艺术家。
 
 
 <div class="two-images">
@@ -54,7 +55,8 @@
 
 ## 5.更多
 
-在浏览界面中，您可以通过点击曲目右侧的“<img class="imgIcon" src="/icons/qqMusic_1.png" alt="" />”更多图标，或专辑/歌单右上角的“<img class="imgIcon" src="/icons/qqMusic_2.png" alt="" />”更多图标，进入更多操作菜单。
+在浏览界面中，您可以通过点击曲目右侧的“<img class="imgIcon" src="/icons/qqMusic_1.png" alt="" />”图标，或专辑/歌单右上角的“<img class="imgIcon" src="/icons/qqMusic_2.png" alt="" />”图标，进入更多操作菜单。
+
 
 
 
@@ -71,8 +73,8 @@
 
 
 **提示：**
-+ 收藏的内容可在 “My Collection” 分栏中随时查看与管理。
-+ 添加到设备播放列表的内容，可在我的音乐-设备播放列表中统一查看和管理。
++  收藏的内容可在 “My Collection” 分栏中随时查看与管理。
++  添加到设备播放列表的内容，可在我的音乐-设备播放列表中统一查看和管理。
 
 <div class="two-images">
   <img src="/images/qobuz_09.png" alt="" />
@@ -83,8 +85,8 @@
 
 
 ## 6.音质
+在使用 Qobuz 音乐服务时，您可以在首页点击右上角“<img class="imgIcon" src="/icons/tidal_1.png" alt="" />”图标，或在播放详情界面点击“<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />”图标来选择音质模式。
 
-在使用TIDAL音乐服务时，您可以在首页点击右上角“<img class="imgIcon" src="/icons/tidal_1.png" alt="" />”账户图标，或在播放详情界面点击 “<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />” 音质图标来选择音质模式。
 
 
 支持的选项包括：

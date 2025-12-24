@@ -4,7 +4,7 @@
 
 在使用Amazon Music服务前，您需要准备一个有效的Amazon Music账号。
 
-首次在设备端或 Eversolo Control APP的“音乐服务”- “流媒体”菜单中打开 Amazon Music，并按照提示完成账号登录。
+首次在设备端或 Eversolo Control APP的“音乐服务” - “流媒体”菜单中打开 Amazon Music，并按照提示完成账号登录。
 
 
 
@@ -19,6 +19,7 @@
 
   ## 2.登录
 请在设备端或 Eversolo Control APP输入您的 Amazon Music 账号与密码完成登录。
+
 如您尚未创建 Amazon Music 帐号，请点击“创建账户”按提示完成账号注册。
 
 
@@ -66,8 +67,8 @@
 <div class="center-text">【设备与Eversolo Control 双端展示】</div>
 
 ## 5.音质
+在使用 Amazon Music 音乐服务时，您可以在首页点击右上角“<img class="imgIcon" src="/icons/amazonMusic_1.png" alt="" />”图标，或在播放详情界面点击“<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />”图标来选择音质模式。
 
-在使用TIDAL音乐服务时，您可以在首页点击右上角“<img class="imgIcon" src="/icons/amazonMusic_1.png" alt="" />”账户图标，或在播放详情界面点击 “<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />” 音质图标来选择音质模式。
 
 支持的选项包括：
 + Low

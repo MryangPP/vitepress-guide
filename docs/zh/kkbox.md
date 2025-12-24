@@ -4,7 +4,7 @@
 
 在使用KKBOX音乐服务前，您需要准备一个有效的KKBOX账号。
 
-首次请在设备端的“音乐服务”- “流媒体”菜单中打开 KKBOX，并按照提示完成账号登录。
+首次请在设备端的“音乐服务” - “流媒体”菜单中打开 KKBOX，并按照提示完成账号登录。
 
 
 <div class="two-images">
@@ -48,8 +48,7 @@
 <div class="center-text">【设备与Eversolo Control 双端展示】</div>
 
 ## 5.更多
-
-在浏览界面中，您可以通过点击曲目右侧的“<img class="imgIcon" src="/icons/qqMusic_1.png" alt="" />”更多图标，或专辑/歌单右上角的“<img class="imgIcon" src="/icons/qqMusic_2.png" alt="" />”更多图标，进入更多操作菜单。
+在浏览界面中，您可以通过点击曲目右侧的“<img class="imgIcon" src="/icons/qqMusic_1.png" alt="" />”图标，或专辑/歌单右上角的“<img class="imgIcon" src="/icons/qqMusic_2.png" alt="" />”图标，进入更多操作菜单。
 
 该菜单支持以下功能：
 
@@ -64,8 +63,8 @@
 
 
 **提示：**
-+ 收藏的内容可在 “我的” 分栏中随时查看与管理。
-+ 添加到设备播放列表的内容，可在我的音乐-设备播放列表中统一查看和管理。
++  收藏的内容可在 “我的” 分栏中随时查看与管理。
++  添加到设备播放列表的内容，可在我的音乐-设备播放列表中统一查看和管理。
 <div class="two-images">
   <img src="/images/kkbox_08.png" alt="" />
   <img src="/images/kkbox_09.png" alt="" />
@@ -76,7 +75,9 @@
 
 ## 6.音质
 
-在播放KKBOX音乐时，进入播放详情界面，点击“<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />”音质图标即可选择音质模式。支持的选项包括：
+在播放KKBOX音乐时，进入播放详情界面，点击顶部“<img class="imgIcon" src="/icons/qqMusic_3.png" alt="" />”图标即可选择音质模式。支持的选项包括：
+
+支持的选项包括：
 + 320k
 + 16bit CD 音质
 + 24bit Hi-Res 音质

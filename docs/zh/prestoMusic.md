@@ -4,7 +4,7 @@
 
 在使用Presto Music音乐服务前，您需要准备一个有效的Presto Music账号。
 
-首次在设备端或 Eversolo Control APP的“音乐服务”- “流媒体”菜单中打开 Presto Music，并按照提示完成账号登录。
+首次在设备端或 Eversolo Control APP的“音乐服务” - “流媒体”菜单中打开 Presto Music，并按照提示完成账号登录。
 
 
 
@@ -38,7 +38,6 @@
 </div>
 
 ## 3.浏览
-
 登录成功后，您可以在设备端或 Eversolo Control APP 浏览Presto Music音乐。在界面顶部，您将看到 首页、探索与收藏三个分栏选项。
 
 您可以逐层浏览这些分类，查看 Presto Music 的各类推荐内容。同时，在“收藏”分栏中，您还能看到Presto Music账号的个人数据，包括您在 Presto Music官方平台收藏的专辑、播放列表、作曲家、艺术家等。
@@ -72,8 +71,8 @@
 
 ## 5.更多
 
-在浏览界面中，您可以通过点击曲目右侧的“<img class="imgIcon" src="/icons/qqMusic_1.png" alt="" />”更多图标，或专辑/歌单右上角的“<img class="imgIcon" src="/icons/qqMusic_2.png" alt="" />”更多图标，进入更多操作菜单。
 
+在浏览界面中，您可以通过点击曲目右侧的“<img class="imgIcon" src="/icons/qqMusic_1.png" alt="" />”图标，或专辑/歌单右上角的“<img class="imgIcon" src="/icons/qqMusic_2.png" alt="" />”图标，进入更多操作菜单。
 
 
 该菜单支持以下功能：
@@ -88,7 +87,7 @@
 
 
 **提示：**
-+ 添加到设备播放列表的内容，可在我的音乐-设备播放列表中统一查看和管理。
++  添加到设备播放列表的内容，可在我的音乐-设备播放列表中统一查看和管理。
 
 
 
